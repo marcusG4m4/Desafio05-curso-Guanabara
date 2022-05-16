@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(243, 249, 249);
+    text-align: center;
+    
+}
+p{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+ul {
+    list-style: none;
+    font-style: italic;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
